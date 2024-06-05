@@ -56,8 +56,8 @@ There are currently no known issues. If you encounter any, please report them.
 
 ## Future Enhancements
 
-- Implementing user accounts for more personalized bookshelves.
-- Enhancing search capabilities with filters and sorts.
+- Implementing user accounts for more personalized bookshelf.
+- Enhancing search capabilities with filters and different sorts.
 
 
    
