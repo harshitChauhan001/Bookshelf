@@ -1,13 +1,31 @@
-# Bookshelf
-A React-based application that allowing users to search for books using the Open Library API and maintain a personal bookshelf in the browser using localStorage.
-# Built with
-React
-React Router
-Open Library API
+# Personal Bookshelf
 
-This template provides a minimal setup to get React working in Vite with HMR and some ESLint rules.
+A React-based application that allows users to search for books using the Open Library API and maintain a personal bookshelf in the browser using localStorage.
 
-Currently, two official plugins are available:
+## About the Project
 
-- [@vitejs/plugin-react](https://github.com/vitejs/vite-plugin-react/blob/main/packages/plugin-react/README.md) uses [Babel](https://babeljs.io/) for Fast Refresh
-- [@vitejs/plugin-react-swc](https://github.com/vitejs/vite-plugin-react-swc) uses [SWC](https://swc.rs/) for Fast Refresh
+Developing a React application that allows users to search for books using the Open Library API and maintain a personal bookshelf in the browser using localStorage.
+
+## Built With
+
+- React
+- React Router
+- Open Library API
+
+## Getting Started
+
+To get started with this project, follow these steps:
+
+### Prerequisites
+
+Ensure you have the following software installed on your local machine:
+
+- [Node.js](https://nodejs.org/) (version 14.x or later)
+- [npm](https://www.npmjs.com/)
+
+### Installation & Setup
+
+1. **Create React App:**
+
+   ```bash
+   npx create-react-app personal-bookshelf
