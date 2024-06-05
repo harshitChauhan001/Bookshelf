@@ -1,4 +1,9 @@
-# React + Vite
+# Bookshelf
+A React-based application that allowing users to search for books using the Open Library API and maintain a personal bookshelf in the browser using localStorage.
+# Built with
+React
+React Router
+Open Library API
 
 This template provides a minimal setup to get React working in Vite with HMR and some ESLint rules.
 
