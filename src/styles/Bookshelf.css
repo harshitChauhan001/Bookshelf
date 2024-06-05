@@ -1,0 +1,11 @@
+.bookshelf {
+    padding: 2rem;
+    display: flex;
+    flex-wrap: wrap;
+    gap: 1rem;
+  }
+  
+  .bookshelf .book-card {
+    width: calc(33.333% - 2rem);
+  }
+  

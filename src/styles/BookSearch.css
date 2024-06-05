@@ -1,0 +1,17 @@
+.book-search {
+    padding: 2rem;
+  }
+  
+  .book-search input {
+    width: 100%;
+    padding: 0.5rem;
+    font-size: 1rem;
+    margin-bottom: 1rem;
+  }
+  
+  .results {
+    display: flex;
+    flex-wrap: wrap;
+    gap: 1rem;
+  }
+  
